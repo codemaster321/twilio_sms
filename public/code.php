@@ -4,9 +4,9 @@
 use Twilio\Rest\Client;
 
 
-$sid="AC6574dd10a860e092054fcdaea282eaeb";
-$token="859712ceb59c57d9f4ff5547ebd43eab";
-$from='9148098796';
+$sid="XXXXXXXXXXXXX";
+$token="xxxxxxxxxxx";
+$from='xxxxxxxxx';
 ?>
 
 <?php
